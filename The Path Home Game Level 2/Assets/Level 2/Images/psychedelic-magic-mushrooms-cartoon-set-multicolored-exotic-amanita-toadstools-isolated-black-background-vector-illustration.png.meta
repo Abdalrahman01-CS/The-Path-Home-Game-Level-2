@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 8d355f4bd75bf2c409730386cb3527e4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 729
+        width: 280
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a1e7f3e164705428f0dddafb50ef00
+      internalID: -169938554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 703
+        width: 341
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a915e7bf04c04a49a8014522c2df777
+      internalID: 2109731706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_2
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 686
+        width: 211
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2173b515edd27e4690a55f39ce36663
+      internalID: -707070018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_3
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 653
+        width: 338
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414e3eb530978d9448cc9bbb8752f7f6
+      internalID: 1130903083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_4
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 674
+        width: 306
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a11c3374ef130745a53874a57acfee6
+      internalID: -469556110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 63
+        width: 236
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0908ed660738e284badbc6f1f422a505
+      internalID: -2033102016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 69
+        width: 402
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46880542c6778a49b618dca7d0b1203
+      internalID: -850258359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 47
+        width: 315
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a38eec7277d4a641bad098aa74ee2b5
+      internalID: -59802892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_8
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 26
+        width: 259
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500a61a6901517547b5b57f298f2f8dd
+      internalID: 1352150042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_9
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 69
+        width: 411
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfe3e8e2ba124d4e965a797de88439c
+      internalID: -267649054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_7: -59802892
+      psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_1: 2109731706
+      psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_5: -2033102016
+      psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_6: -850258359
+      psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_8: 1352150042
+      psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_3: 1130903083
+      psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_9: -267649054
+      psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_0: -169938554
+      psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_4: -469556110
+      psychedelic-magic-mushrooms-cartoon-set-multicolored-exotic-amanita-toadstools-isolated-black-background-vector-illustration_2: -707070018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
